@@ -37,9 +37,6 @@ This project presents an interactive Power BI dashboard built to analyze and vis
 - DAX (Data Analysis Expressions)
 - Data Visualization
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](Screenshot.png)
 
 ## 📊 Key Insights
 
